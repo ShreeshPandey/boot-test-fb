@@ -23,8 +23,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
+            "styles": [              
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -87,8 +87,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
-              "src/styles.css"
+            "styles": [             
+              "src/styles.scss"
             ],
             "scripts": []
           }
@@ -119,6 +119,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "fb-clone"
 }
